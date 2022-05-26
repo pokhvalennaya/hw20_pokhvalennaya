@@ -1,0 +1,20 @@
+{
+  "name": "hw20_pokhvalennaya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokhvalennaya/hw20_pokhvalennaya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokhvalennaya/hw20_pokhvalennaya/issues"
+  },
+  "homepage": "https://github.com/pokhvalennaya/hw20_pokhvalennaya#readme"
+}
